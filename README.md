@@ -10,19 +10,20 @@
 ## This is my Skills:
 
 <div align="left">
-  <img src="javascript.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="react.svg" height="40" alt="react logo"  />
+  <img src="python.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="bootstrap.svg" height="40" alt="bootstrap logo"  />
+  <img src="javascript.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="html.svg" height="40" alt="html5 logo"  />
+  <img src="php.svg" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="python.svg" height="40" alt="python logo"  />
+  <img src="html.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="php.svg" height="40" alt="php logo"  />
+  <img src="css.svg" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="css.svg" height="40" alt="css3 logo"  />
+  <img src="react.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="boostrap.svg" height="60" alt="bootstrap logo"  />
 </div>
 
 ###
@@ -32,12 +33,19 @@
 ###
 
 <div style="margin-left: 50px;">
+  <img width="12" />
   <a href="https://www.instagram.com/sohofi.ibrahim/"><img src="Instagram.svg" width="60" height="60" alt="instagram logo"  />
-  <a href="https://www.facebook.com/ibrahimsohofi03"><img src="Facebook.svg" width="52" height="60" alt="facebook logo"  /></a>
+  <img width="12" />
+  <a href="https://www.facebook.com/ibrahimsohofi03"><img src="Facebook.svg" width="60" height="60" alt="facebook logo"  /></a>
+  <img width="12" />
   <a href="https://www.youtube.com/@sohofiibrahim"> <img src="Youtube.svg" width="60" height="60" alt="youtube logo"  /></a>
+  <img width="12" />
   <a href="https://twitter.com/Ibrahimsohofi"> <img src="Twitter.svg" width="60" height="60" alt="twitter logo"  /></a>
+  <img width="12" />
   <a href="https://t.me/ibrahimsohofi"> <img src="Telegram.svg" width="60" height="60" alt="telegram logo"  /></a>
+  <img width="12" />
   <a href="https://www.linkedin.com/in/ibrahimsohofi/"><img src="Linkedin.svg" width="60" height="60" alt="linkedin logo"  /></a>
+  <img width="12" />
   <a href="https://discord.com/users/927947587099697213"><img src="Discord.svg" width="60" height="60" alt="discord logo"  /></a>
   
  
