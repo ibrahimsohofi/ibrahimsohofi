@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#Degradado_sin_nombre_7);
+      }
+    </style>
+    <linearGradient id="Degradado_sin_nombre_7" data-name="Degradado sin nombre 7" x1="8.79" y1="8.79" x2="51.21" y2="51.21" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ed2224"/>
+      <stop offset="1" stop-color="#9b1b1f"/>
+    </linearGradient>
+  </defs>
+  <circle class="cls-2" cx="30" cy="30" r="30"/>
+  <path class="cls-1" d="M44.57,26.2c0-3.53-2.86-6.39-6.39-6.39h-16.35c-3.53,0-6.39,2.86-6.39,6.39v7.61c0,3.53,2.86,6.39,6.39,6.39h16.35c3.53,0,6.39-2.86,6.39-6.39v-7.61ZM34.95,30.57l-7.33,3.63c-.29.16-1.26-.05-1.26-.38v-7.45c0-.33.98-.54,1.27-.38l7.02,3.82c.29.17.6.59.31.75Z"/>
+</svg>
