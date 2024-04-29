@@ -35,14 +35,14 @@
 
 ###
 
-<div style="margin-left: 50px;" align="center">
-  <a href="https://www.instagram.com/sohofi.ibrahim/"><img src="Instagram.svg" width="52" height="40" alt="instagram logo"  />
-   <a href="https://www.facebook.com/ibrahimsohofi03"><img src="Facebook.svg" width="52" height="40" alt="facebook logo"  /></a>
- <a href="https://www.youtube.com/@sohofiibrahim"> <img src="Youtube.svg" width="52" height="40" alt="youtube logo"  /></a>
-  <a href="https://twitter.com/Ibrahimsohofi"> <img src="Twitter.svg" width="52" height="40" alt="twitter logo"  /></a>
-  <a href="https://t.me/ibrahimsohofi"> <img src="Telegram.svg" width="52" height="40" alt="telegram logo"  /></a>
-  <a href="https://www.linkedin.com/in/ibrahimsohofi/"><img src="Linkedin.svg" width="52" height="40" alt="linkedin logo"  /></a>
-  <a href="https://discord.com/users/927947587099697213"><img src="Discord.svg" width="52" height="40" alt="discord logo"  /></a>
+<div style="margin-left: 50px;">
+  <a href="https://www.instagram.com/sohofi.ibrahim/"><img src="Instagram.svg" width="60" height="60" alt="instagram logo"  />
+  <a href="https://www.facebook.com/ibrahimsohofi03"><img src="Facebook.svg" width="52" height="60" alt="facebook logo"  /></a>
+  <a href="https://www.youtube.com/@sohofiibrahim"> <img src="Youtube.svg" width="60" height="60" alt="youtube logo"  /></a>
+  <a href="https://twitter.com/Ibrahimsohofi"> <img src="Twitter.svg" width="60" height="60" alt="twitter logo"  /></a>
+  <a href="https://t.me/ibrahimsohofi"> <img src="Telegram.svg" width="60" height="60" alt="telegram logo"  /></a>
+  <a href="https://www.linkedin.com/in/ibrahimsohofi/"><img src="Linkedin.svg" width="60" height="60" alt="linkedin logo"  /></a>
+  <a href="https://discord.com/users/927947587099697213"><img src="Discord.svg" width="60" height="60" alt="discord logo"  /></a>
   
  
  
