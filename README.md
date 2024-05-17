@@ -11,19 +11,19 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/svg.svg"/>
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Python.svg"/>
   <img width="12" />
-  <img src="javascript.svg" height="60" alt="javascript logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/JavaScript.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="php.svg" height="60" alt="php logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/PHP.svg" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="html.svg" height="60" alt="html5 logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/HTML5.svg" height="60" alt="html5 logo"  />
   <img width="12" />
-  <img src="css.svg" height="60" alt="css3 logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/CSS3.svg" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="react.svg" height="60" alt="react logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/React.svg" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="boostrap.svg" height="60" alt="bootstrap logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Bootstrap.svg"  />
 </div>
 
 ###
