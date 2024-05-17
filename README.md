@@ -11,7 +11,7 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Python.svg"/>
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Python.svg " height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/JavaScript.svg" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/React.svg" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Bootstrap.svg"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Bootstrap.svg" height="60" alt="bootstrap logo"  />
 </div>
 
 ###
