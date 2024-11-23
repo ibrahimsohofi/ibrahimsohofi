@@ -24,6 +24,8 @@
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/React.svg" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Bootstrap.svg" height="60" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/tilwindCSS.svg" height="60" alt="TailwindCss logo"  />
 </div>
 
 ###
