@@ -4,7 +4,7 @@
 <div align="center">
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimsohofi&amp;count_private=true&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=79ff97&amp;text_color=aaaaaa&amp;bg_color=0e1116&amp;border_color=888888" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimsohofi&layout=compact&theme=radical#gh-dark-mode-only&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimsohofi&amp;hide=html&amp;layout=compact&amp;title_color=ffffff&amp;icon_color=79ff97&amp;text_color=aaaaaa&amp;bg_color=0e1116&amp;border_color=888888" height="150" alt="languages graph"  />
 </div>
 
 ## About me
