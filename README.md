@@ -18,7 +18,7 @@ div class="section">
                 <li>⚡ Fun fact: I love turning coffee into code! ☕</li>
             </ul>
         </div>
-## 🛠️ My Tech Stack:
+<h2>🛠️ My Tech Stack </h2>
 <div align="left">
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Python.svg " height="60" alt="python logo"  />
