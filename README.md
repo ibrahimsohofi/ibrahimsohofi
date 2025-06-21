@@ -4,12 +4,11 @@
 <div align="center">
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ibrahimsohofi&amp;count_private=true&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=79ff97&amp;text_color=aaaaaa&amp;bg_color=0e1116&amp;border_color=888888" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimsohofi&amp;hide=html&amp;layout=compact&amp;title_color=ffffff&amp;icon_color=79ff97&amp;text_color=aaaaaa&amp;bg_color=0e1116&amp;border_color=888888" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimsohofi&amp;hide=html&amp;layout=compact&amp;title_color=ffffff&amp;icon_color=79ff97&amp;text_color=aaaaaa&amp;bg_color=0e1116&amp;border_color=888888" height="150" alt="languages graph" />
 </div>
 div class="section">
             <h2>🚀 About Me</h2>
             <p>Hello! And welcome to my GitHub profile. I am a passionate <strong>web developer student, constantly learning and building amazing things with code. I love exploring new technologies and turning ideas into reality through programming.</p>
-
             <ul>
                 <li>🔭 I'm currently working on improving my full-stack development skills</li>
                 <li>🌱 I'm currently learning advanced <strong>React</strong>, <strong>Node.js</strong>, and <strong>Database Management</strong></li>
