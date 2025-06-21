@@ -7,12 +7,17 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ibrahimsohofi&amp;hide=html&amp;layout=compact&amp;title_color=ffffff&amp;icon_color=79ff97&amp;text_color=aaaaaa&amp;bg_color=0e1116&amp;border_color=888888" height="150" alt="languages graph"  />
 </div>
 
-## About me
+Hello! 👋 Welcome to my GitHub profile
+I am a passionate web developer student, constantly learning and building amazing things with code. I love exploring new technologies and turning ideas into reality through programming.
 
-<p align="left">Hello!!<br>And welcome to my Githup profile. I am a web developper student. Here you can find my projects and i am still learning to do amazing things.</p>
-
-## This is my Skills:
-
+  
+ I'm currently working on improving my full-stack development skills
+ I'm currently learning advanced React, Node.js, and Database Management
+ I'm looking to collaborate on open source projects and web applications
+ Ask me about JavaScript, React, PHP, or anything web development related
+ How to reach me: [sohofi.ibrahim@gmail.com](mailto:sohofi.ibrahim@gmail.com)
+ Fun fact: I love turning coffee into code! ☕
+## 🛠️ My Tech Stack:
 <div align="left">
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Python.svg " height="60" alt="python logo"  />
