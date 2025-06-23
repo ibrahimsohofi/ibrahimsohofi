@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Laravel.svg" height="60" alt="Laravel logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Express.svg" height="60" alt="Express logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Express.svg" style="background:white" height="60" alt="Express logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/PHP.svg" height="60" alt="PHP logo"  />
 </div>
