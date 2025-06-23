@@ -38,18 +38,18 @@
 <div>
 <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Nodejs.svg" height="60" alt="Nodejs logo"  />
   <img width="12" />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Laravel.svg" height="60" alt="Laravel logo"  />
+  <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Express.svg" height="60" alt="Express logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/PHP.svg" height="60" alt="PHP logo"  />
-  <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Laravel.svg" height="60" alt="Laravel logo"  />
 </div>
 <h3>Databases:</h3>
 <div>
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/mongodb.svg" height="60" alt="MongoDb logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/mysql.svg" height="60" alt="Mysql logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/mysql.svg" height="80" alt="Mysql logo"  />
 </div>
 <br/>
 <h1>Contact</h1>
