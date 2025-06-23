@@ -18,7 +18,7 @@
 </ul>
 <h2>🛠️ My Tech Stack </h2>
 
-<div align="center">
+<div align="left">
 
 <h3>Frontend:</h3>
 <div>
@@ -40,9 +40,9 @@
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Express.svg" height="60" alt="Express logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Laravel.svg" height="60" alt="Laravel logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/PHP.svg" height="60" alt="PHP logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/tailwindCSS.svg" height="60" alt="TailwindCss logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Laravel.svg" height="60" alt="Laravel logo"  />
 </div>
 <h3>Databases:</h3>
 <div>
