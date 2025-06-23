@@ -17,35 +17,42 @@
   <li>⚡ Fun fact: I love turning coffee into code! ☕</li>
 </ul>
 <h2>🛠️ My Tech Stack </h2>
-<div align="left">
-  <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Python.svg " height="60" alt="python logo"  />
-  <img width="12" />
+
+<div align="center">
+
+<h3>Frontend:</h3>
+<div>
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/JavaScript.svg" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/PHP.svg" height="60" alt="php logo"  />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/React.svg" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/tailwindCSS.svg" height="60" alt="TailwindCss logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/HTML5.svg" height="60" alt="html5 logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/CSS3.svg" height="60" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/React.svg" height="60" alt="react logo"  />
-  <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Bootstrap.svg" height="60" alt="bootstrap logo"  />
+</div>
+<h3>Backend:</h3>
+<div>
+<img src="https://github.com/ibrahimsohofi/SVG/blob/main/Nodejs.svg" height="60" alt="Nodejs logo"  />
+  <img width="12" />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Express.svg" height="60" alt="Express logo"  />
+  <img width="12" />
+  <img src="https://github.com/ibrahimsohofi/SVG/blob/main/Laravel.svg" height="60" alt="Laravel logo"  />
   <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/tailwindCSS.svg" height="60" alt="TailwindCss logo"  />
- <img width="12" />
+</div>
+<h3>Databases:</h3>
+<div>
+  <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/mongodb.svg" height="60" alt="MongoDb logo"  />
- <img width="12" />
+  <img width="12" />
   <img src="https://github.com/ibrahimsohofi/SVG/blob/main/mysql.svg" height="60" alt="Mysql logo"  />
 </div>
-
-###
-
-## Follow me:
-
-###
-
+<br/>
+<h1>Contact</h1>
 <div style="margin-left: 50px;">
   <img width="12" />
   <a href="https://www.instagram.com/sohofi.ibrahim/" target="_blank"><img src="Instagram.svg" width="60" height="60" alt="instagram logo"  />
@@ -61,10 +68,6 @@
   <a href="https://www.linkedin.com/in/ibrahimsohofi/" target="_blank" ><img src="Linkedin.svg" width="60" height="60" alt="linkedin logo"  /></a>
   <img width="12" />
   <a href="https://discord.com/users/927947587099697213" target="_blank" ><img src="Discord.svg" width="60" height="60" alt="discord logo"  /></a>
-  
- 
- 
-  
 </div>
 
 ###
